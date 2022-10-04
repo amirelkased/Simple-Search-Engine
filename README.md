@@ -11,3 +11,6 @@ This is a simple search engine consistance of 6 stage:
 - [Fourth Stage](https://github.com/amirelkased/Simple-Search-Engine/tree/main/src/Stage_4)
 
 - [Fifth Stage](https://github.com/amirelkased/Simple-Search-Engine/tree/main/src/Stage_5)
+
+- [Final Stage](https://github.com/amirelkased/Simple-Search-Engine/tree/main/src/Stage_6)
+
