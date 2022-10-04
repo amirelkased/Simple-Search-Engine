@@ -14,3 +14,12 @@ This is a simple search engine consistance of 6 stage:
 
 - [Final Stage](https://github.com/amirelkased/Simple-Search-Engine/tree/main/src/Stage_6)
 
+## Demo
+
+
+
+
+
+https://user-images.githubusercontent.com/95230844/193919943-c550ad48-587c-4a94-a4d7-0abe0104eed2.mp4
+
+
